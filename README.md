@@ -15,4 +15,4 @@ Dataset: City of Pittsburgh Traffic Count
 https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 
 
-Overview: We are using the listed datasets to determine the "best neighborhood for new families to stay away from".
+Overview: We are using the listed datasets to determine the "best neighborhood for new families to avoid".
