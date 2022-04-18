@@ -1,4 +1,4 @@
-# final-project-worst-for-familites
+# final-project-worst-for-families
 
 Team name: RCKstars
 
